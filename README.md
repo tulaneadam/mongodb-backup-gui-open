@@ -1,4 +1,4 @@
-Mongodb Backup GUI is an open source, free mongodb backup application with a simple ui to enter database url and related info to continuously back up your data to localhost and/or dropbox.
+Mongodb Backup GUI is an open source, free mongodb backup application with a simple ui to enter database url and related info to continuously back up your data to localhost and/or dropbox with email alerts.
 
 Supported Platforms: Windows, Mac, Linux, and Chromebook.
 
