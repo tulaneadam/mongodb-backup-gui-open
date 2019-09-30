@@ -5,6 +5,7 @@ Supported Platforms: Windows, Mac, Linux, and Chromebook.
 Unsupported Platforms: Linux/Windows Live CD/USB/ISO Environments (OS should be fully installed for app to work properly).
 
 Prerequisites to run:
+
 0. Nodejs/npm must be installed.
 1. Mongodb must be installed.
 2. Dropbox client must be installed to the default location to back up to dropbox in addition to localhost.
